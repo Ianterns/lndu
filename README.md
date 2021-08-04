@@ -1,5 +1,5 @@
 <p align="center">
-    funeral
+    indu
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=respitory&color=grey">
   <p align="center">
@@ -7,4 +7,4 @@
 <p align="center">
 Random skid from GitHub
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://wintr.rip">appr</a>
